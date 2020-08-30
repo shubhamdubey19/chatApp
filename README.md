@@ -4,6 +4,8 @@ This is a chatting application that I have designed using ReactJS in the fronten
 
 ![](chattingapp/photos/loginPage.jpeg)
 
+![](chattingapp/photos/googleAuth.jpeg)
+
 The Login Page contains the Welcome Page along with the login option.A user can login via his/her Google Account.After successfully authentication the user will
 be directed to Home Page.
 
